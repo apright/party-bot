@@ -13,7 +13,7 @@ from telegram.ext import (
 )
 
 # ========= CONFIG =========
-BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "PASTE_YOUR_TOKEN_HERE")
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8573908942:AAGDxl6rz7DTcqHFU5wpLbcw0U1Y777ycsE")
 DATA_FILE = Path("party_ledger.json")
 CURRENCY = "₹"  # change if you want
 
